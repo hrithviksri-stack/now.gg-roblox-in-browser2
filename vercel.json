@@ -1,3 +1,5 @@
 {
-  "buildCommand": "echo Static Site"
+  "buildCommand": "echo 'Static site'",
+  "outputDirectory": "."
 }
+
